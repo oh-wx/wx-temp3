@@ -1,0 +1,145 @@
+FXUS64 KFWD 181140 AAA
+AFDFWD
+
+Area Forecast Discussion...UPDATED
+National Weather Service Fort Worth TX
+640 AM CDT Thu Jul 18 2019
+
+
+.AVIATION...
+/12Z TAFs/
+
+Concerns -- Brief MVFR possible at KACT thru 15Z. VFR/S flow
+otherwise.
+
+High pressure will remain in control of the region`s weather thru
+the TAF period. At present time...GOES-16 "Night Fog" product and
+surface obs show patchy MVFR stratus infiltrating parts of Central
+TX. KACT has not yet reported any MVFR cigs...thus "upgraded" the
+previous TAF from prevailing to TEMPO MVFR. Beyond 15Z...KACT
+should become VFR...joining the rest of our TAF sites.
+Otherwise...look for breezy southerly winds (10-15 kt, with gusts
+to around 20 kt possible) and little to no cloud cover.
+
+37
+
+&&
+
+
+.SHORT TERM... /Issued 259 AM CDT Thu Jul 18 2019/
+/Today and Tonight/
+
+Another hot day in store for North and Central Texas, but with
+slightly breezier conditions, and lower humidity, heat index
+values will not be as oppressive as the past few days. Look for
+another mostly sunny, rain-free day.
+
+Texas remains under the influence of a stout upper-level ridge
+this morning, with 500 mb heights around 594 dam on the 00Z RAOB.
+Farther away across the Northern Rockies, an impressive 130+ kt
+jet streak will overspread the region, with a shortwave trough
+expected to propagate along the International Border. This
+combination will induce pressure falls across the Rocky Mountains,
+which will in turn result in strengthening poleward flow across
+the Great Plains. The enhanced south winds this afternoon combined
+with strong insolation will result in deep boundary layer mixing,
+thus helping to dry out the lower levels of the troposphere. The
+final result of all this will mean dewpoint temperatures dropping
+into the mid 60s across much of North Texas (unfortunately, parts
+of Central and East Texas will still see dewpoints in the upper
+60s to near 70). Because of these lower humidity values, heat
+index values should top out near 100 F, which while still plenty
+hot enough to warrant the usual precautions, will be low enough to
+preclude the issuance of a Heat Advisory. It should be stressed
+however, that it will still be hot enough that folks will need to
+take the usual precautions to avoid heat-related illness.
+
+Thursday Night will be much like the past several nights,
+featuring low temperatures in the mid 70s across most of the
+county warning area, except for the urban core of the Dallas/Fort
+Worth Metropolitan Area where lows will bottom out in the upper
+70s.
+
+37
+
+&&
+
+.LONG TERM... /Issued 259 AM CDT Thu Jul 18 2019/
+/Friday through Next Week/
+
+The extended forecast maintains the idea of a synoptic-scale
+pattern shift across the Lower 48 starting late this weekend into
+early next week. The finer details of how this will impact North
+and Central Texas are yet to be resolved, but the TL;DR summary (TL;DR
+stands for "too long; didn`t read" -- I`m hip. I`m with it.) is
+that temperatures should gradually cool some next Tuesday and
+Wednesday, along with an uptick in rain and storm chances.
+
+Until then, elongated mid-level ridging across the southern 2/3rds
+of the contiguous US will relegate stronger zonal flow to
+locations closer to the International Border. This stronger flow
+will maintain lee troughing across the central/northern High
+Plains, keeping us with a modest low-level jet through the
+weekend and breezy southerly winds each day as diurnal mixing
+ensues. Plentiful insolation and progressively deeper mixing each
+afternoon should maintain highs in the mid/upper 90s through the
+weekend. A few spots may still touch 100 degrees, but the deeper
+mixing may shave a few more degrees off afternoon dew points,
+keeping heat indices in the 100-105 range.
+
+By late Sunday into Monday, the northern stream becomes more
+interesting as a mid-level ridge strengthens over the Inter-
+Mountain West and a jet streak crests this ridge, dropping
+southeast over the northern Plains. In combination with weak
+impulses rounding the western periphery of a Hudson Bay low, this
+jet streak and related vort max will carve out a broader-scale
+trough across the eastern US during the first half of next week.
+The extent to which it does will determine how quickly a front and
+rain chances invade North and Central Texas Monday through
+Wednesday. The GFS has been rather consistent with driving this
+system southeast across the Missouri Valley, creating more robust
+northerly flow across the Plains and pushing a surface front and
+some convection through our area rather quickly on Monday. This
+evolution would create rather pleasant conditions for Tuesday (by
+late July standards), with many locations in the 80s under a dry
+northeast breeze. This amplified of a scenario still seems
+somewhat dubious, though, given climatology and multi-model
+spread.
+
+A more likely scenario is that the aforementioned systems
+initially drive a cold front into the Central Plains, Ozarks, and
+mid Mississippi Valley, and then convective influences (e.g.,
+feedback into the mid-level pattern, outflow, etc.) cause an
+effective front to ooze southward through our area Tuesday into
+Tuesday night. This evolution would result in a hot and dry
+Monday, followed by increasing rain/storm chances and cooler
+temperatures on Tuesday and Wednesday, thanks to cloud cover and
+precipitation. The extended forecast generally reflects this
+thinking, although PoPs are not particularly high for any one
+period, given continued uncertainty regarding timing. Still,
+at least a brief period of below-normal high temps is appearing
+more likely next week.
+
+Picca
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    96  77  98  78  98 /   0   0   0   0   0
+Waco                96  76  98  76  98 /   0   0   0   0   0
+Paris               92  74  93  75  92 /   0   0   0   0   0
+Denton              96  76  98  77  97 /   0   0   0   0   0
+McKinney            95  75  97  77  96 /   0   0   0   0   0
+Dallas              97  77  98  78  98 /   0   0   0   0   0
+Terrell             94  76  98  78  98 /   0   0   0   0   0
+Corsicana           94  76  94  75  94 /   0   0   0   0   0
+Temple              95  75  96  76  96 /   0   0   0   0   0
+Mineral Wells       96  74  98  74  97 /   0   0   0   0   0
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$

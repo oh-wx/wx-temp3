@@ -1,0 +1,147 @@
+AXNT20 KNHC 091045
+TWDAT
+
+Tropical Weather Discussion
+NWS National Hurricane Center Miami FL
+645 AM EDT Tue Jul 9 2019
+
+Tropical Weather Discussion for North America, Central America
+Gulf of Mexico, Caribbean Sea, northern sections of South
+America, and Atlantic Ocean to the African coast from the
+Equator to 32N. The following information is based on satellite
+imagery, weather observations, radar and meteorological analysis.
+
+Based on 0600 UTC surface analysis and satellite imagery through 
+1019 UTC.
+
+...SPECIAL FEATURE...
+
+A trough of low pressure located over southwestern Georgia is 
+producing disorganized showers and has a medium chance of becoming
+a tropical cyclone over the next 48 hours. This disturbance is 
+expected to move southward or southwestward during the next day or
+so, and a broad area of low pressure is forecast to form over the
+northeastern Gulf of Mexico on Wednesday. Once the disturbance is
+over water, conditions are expected to be conducive for development
+and a tropical depression is likely to form by the end of the 
+week while it progresses westward across the northern Gulf of 
+Mexico. This system has the potential to produce heavy rainfall 
+along portions of the northern and eastern U.S. Gulf Coast later 
+this week. Refer to the latest NHC Tropical Weather Outlook 
+under AWIPS/WMO headers MIATWOAT/ABNT20 KNHC or www.hurricanes.gov
+for more information.
+
+...TROPICAL WAVES...
+
+A tropical wave is moving off the coast of western Africa with 
+axis along 18W south of 17N, moving W around 15 kt. Showers with 
+embedded thunderstorms are noted from 06N- 12N between 17W- 19W.
+
+A tropical wave in the Atlantic extends its axis along 30W south 
+of 17N, moving W around 10 kt. There is currently no significant 
+convection is associated with this wave.
+
+A tropical wave is along 42W south of 13N, moving W at 15-20 kt.
+Scattered showers with embedded thunderstorms are seen with this
+wave mainly from 06N-12N between 41W-45W. Over the next few days,
+convective activity with gusty winds will likely increase along 
+the wave and is expected over the Windward Islands by Friday. 
+These conditions are expected to spread over the eastern Caribbean
+through the weekend as the wave moves west.
+
+A tropical wave extends its axis along 60W south of 16N, moving W
+around 15-20 kt. Scattered moderate convection is seen near this 
+feature from 11N-16N between 58W-64W. An increase in shower 
+activity is expected over the east Caribbean with this wave.
+
+A central Caribbean tropical wave extends its axis along 74W from
+05N- 19N, moving W at 10-15 kt. Showers with embedded
+thunderstorms are seen just off the coast of Haiti, otherwise no
+significant convection is seen at this time.
+
+...MONSOON TROUGH/ITCZ...
+
+The monsoon trough passes through the coastal areas of Senegal 
+near 13N17W to 09N34W. The ITCZ begins near 09N34W to 09N41W, then
+continues W of a tropical wave near 08N43W to the coast of French
+Guiana near 05N52W. Aside from the convection discussed in the 
+section above, scattered moderate convection is noted along the 
+monsoon trough from 04N-09N between 20W-26W.
+
+GULF OF MEXICO...
+
+See the Special Features section for more information on the
+system that will potentially impact the northern Gulf this week.
+
+A low to mid-level trough prevails across the NE Gulf which 
+continues to enhance convection mostly in the north-central and
+northeastern Gulf. A surface trough extends from a 1011 mb low in
+central Georgia near 32N84W to 28N81W, right along the west coast
+of Florida. Convection is seen from 23N- 30N between 81W- 90W. 
+Isolated thunderstorms continue in the southern Bay of Campeche, S
+of 21N and W of 93W. The rest of the Gulf is under a weak surface
+ridging anchored by a 1017 mb high near 23N87W. Scatterometer 
+data depicts gentle to moderate winds across the basin.
+
+Weak high pressure will dominate the western Gulf into mid week. 
+A surface low will move from Georgia to the northeast Gulf
+Wednesday where it will slowly intensify through Saturday, 
+possibly into a tropical cyclone, as it drifts westward through 
+the north central and northwest Gulf through late Saturday.
+
+CARIBBEAN SEA...
+
+See the Tropical Waves section above for information on the
+tropical waves currently traversing the Caribbean. 
+
+Low to mid-level troughing prevails across the northern Caribbean
+which is enhancing convection over Cuba and Jamaica, as well as 
+their adjacent waters. Scattered moderate to strong convection is
+noted from 17N-22N between 75W-82W. Scattered moderate convection
+is also seen in the SW Caribbean off the coasts of Panama to 
+Nicaragua, enhanced by the monsoon trough, south of 12N and west 
+of 75W. A surface trough is seen in the Mona Passage between the
+Dominican Republic and Puerto Rico, from 20N67W to 16N69W.
+Scattered showers are seen moving along Puerto Rico toward
+Hispaniola. Fair weather prevails across the remainder of the 
+basin. Moderate to fresh trades in the south- central Caribbean 
+with light winds in the NW basin, and gentle to moderate trades in
+the rest of the area.
+
+High pressure north of the area will support fresh to strong 
+tradewinds in the south-central Caribbean for the entire period. A
+tropical wave south of Hispaniola will weaken as it exits the 
+western Gulf through Thursday. Another tropical wave will move 
+across the eastern Caribbean today, the central Caribbean
+Wednesday, and exit the western Caribbean by Friday into 
+Saturday. A third tropical wave will enter the eastern Caribbean 
+Thursday and move through the central Caribbean through Saturday.
+
+
+ATLANTIC OCEAN...
+
+Broad low to mid-level troughing in the SE US is drawing moisture
+toward Florida, Bahamas, and west Atlantic. Convection is seen
+along the northern Bahamas from 23N-28N between 77W-80W. There is
+another area of convection seen in the Atlantic from 23N-27N
+between 61W-67W. To the east, a stationary front extends from 
+31N34W to 28N47W with isolated thunderstorms beginning to fire off
+along the boundary, mostly between 40W-47W. Surface ridging 
+dominates the rest of the basin anchored by a 1023 mb high near 
+28N52W. Moderate southerly winds are seen in the west Atlantic 
+north of 26N and east of 70W. Moderate to fresh easterly winds 
+are also seen north of Hispaniola. 
+
+Moderate to locally fresh southerly flow will persist through 
+early Wednesday over the offshore waters northeast of Florida due
+to a deepening low over Georgia that will move into the northeast
+Gulf of Mexico. Otherwise, high pressure will dominate across the
+region, supporting gentle to moderate breezes elsewhere, except 
+north of Hispaniola where fresh to strong trades will pulse at 
+night. 
+
+For additional information please visit 
+http://www.hurricanes.gov/marine
+
+$$
+AKR

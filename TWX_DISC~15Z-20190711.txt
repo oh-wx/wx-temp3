@@ -1,0 +1,78 @@
+WTNT42 KNHC 111453
+TCDAT2
+
+Tropical Storm Barry Discussion Number   5
+NWS National Hurricane Center Miami FL       AL022019
+1000 AM CDT Thu Jul 11 2019
+
+The low pressure area over the northern Gulf of Mexico has become
+better organized during the past several hours, with a large
+convective band in the southern semicircle.  The circulation
+center has also become better defined, although it is still
+elongated and multiple cloud swirls are seen rotating around the
+mean center.  In addition, Air Force Reserve and NOAA Hurricane
+Hunter aircraft report flight-level and SFMR winds high enough for
+an initial intensity of 35 kt.  Based on these developments, the
+system is upgraded to Tropical Storm Barry.
+
+The initial motion is a rather uncertain 270/4.  Barry is being
+steered by a weak low- to mid-level ridge to the north, and a
+weakness in the ridge is forecast to develop during the next
+24-48 h.  This should allow the cyclone to turn northwestward and
+eventually northward.  However, there is a large spread in the track
+guidance.  The HWRF and HMON forecast Barry to move almost due
+north from its current position with a landfall in Mississippi,
+while the UKMET takes the cyclone to the upper Texas coast.  The
+GFS, ECMWF, and Canadian models lie between these extremes.
+Overall, there has been a slight eastward shift of the guidance
+envelope, so the new forecast track is also adjusted slightly to
+the east.  It should be noted, though, that the new track is west
+of the consensus models.
+
+Barry is being affected by northerly shear, and water vapor imagery
+indicates mid- to upper-level dry air moving into the cyclone from
+the northeast.  Some moderate shear is now expected to persist until
+the cyclone makes landfall.  Despite this less than ideal
+environment, the guidance forecasts slow but steady intensification,
+so the NHC forecast follows this trend.  The new intensity forecast
+is similar to the previous one in calling for Barry to become a
+hurricane just before landfall in Louisiana, and it lies between the
+HCCA and ICON consensus models.
+
+Key Messages:
+
+1. Barry is expected to bring storm surge, rainfall, and wind
+hazards to the central Gulf Coast during the next several days.
+
+2. There is a danger of life-threatening storm surge inundation
+along the coast of southern and southeastern Louisiana where a Storm
+Surge Warning has been issued. The highest storm surge inundation is
+expected between the Mouth of the Atchafalaya River and Shell Beach.
+Residents in these areas should listen to any advice given by local
+officials.
+
+3. A Tropical Storm Warning and Hurricane Watch are in effect for
+much of the Louisiana coast and additional watches and warnings
+could be required later today. Residents in these areas should
+ensure they have their hurricane plan in place.
+
+4. The slow movement of this system will result in a long duration
+heavy rainfall threat along the central Gulf Coast and inland
+through the lower Mississippi Valley through the weekend and
+potentially into early next week. Flash flooding and river flooding
+will become increasingly likely, some of which may be significant,
+especially along and east of the track of the system.
+
+FORECAST POSITIONS AND MAX WINDS
+
+INIT  11/1500Z 27.8N  88.7W   35 KT  40 MPH
+ 12H  12/0000Z 27.8N  89.3W   35 KT  40 MPH
+ 24H  12/1200Z 28.1N  90.0W   45 KT  50 MPH
+ 36H  13/0000Z 28.6N  90.8W   55 KT  65 MPH
+ 48H  13/1200Z 29.4N  91.4W   65 KT  75 MPH
+ 72H  14/1200Z 32.0N  91.8W   30 KT  35 MPH...INLAND
+ 96H  15/1200Z 34.5N  91.5W   25 KT  30 MPH...INLAND
+120H  16/1200Z 37.0N  89.5W   20 KT  25 MPH...POST-TROP/REMNT LOW
+
+$$
+Forecaster Beven

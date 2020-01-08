@@ -1,0 +1,143 @@
+AXNT20 KNHC 101045
+TWDAT 
+
+Tropical Weather Discussion
+NWS National Hurricane Center Miami FL
+645 AM EDT Wed Jul 10 2019
+
+Tropical Weather Discussion for North America, Central America
+Gulf of Mexico, Caribbean Sea, northern sections of South
+America, and Atlantic Ocean to the African coast from the
+Equator to 32N. The following information is based on satellite
+imagery, weather observations, radar and meteorological analysis.
+
+Based on 0600 UTC surface analysis and satellite imagery through 
+1019 UTC.
+
+...SPECIAL FEATURES...
+
+A broad low pressure area located over the far northeastern 
+Gulf of Mexico is producing widespread but disorganized showers 
+and thunderstorms. Environmental conditions are conducive for 
+development of this system, and a tropical depression is expected 
+to form late today or Thursday while the low moves slowly westward
+across the northern Gulf of Mexico. This system could produce 
+storm surge and tropical storm or hurricane force winds across 
+portions of the Louisiana, Mississippi and Upper Texas coasts. 
+In addition, this disturbance has the potential to produce very 
+heavy rainfall from the Upper Texas Coast to the Florida 
+Panhandle. For more information, please see products issued by 
+your local weather forecast office and the NOAA Weather Prediction
+Center. Please also refer to the latest NHC Tropical Weather 
+Outlook under AWIPS/WMO headers MIATWOAT/ABNT20 KNHC or 
+www.hurricanes.gov for more information.
+
+...TROPICAL WAVES...
+
+An Atlantic Ocean tropical wave is along 26W from 15N southward,
+moving W around 15-20 kt. Scattered showers and thunderstorms are
+seen near this feature from 05N-11N between 23W-26W. 
+
+An Atlantic Ocean tropical wave is along 37W from 16N southward, 
+moving W around 10-15 kt. No significant deep convection is seen 
+at this time.
+
+An Atlantic Ocean tropical wave is along 49W from 13N southward,
+moving W around 15 kt. Scattered showers and thunderstorms are 
+seen within 150 nm of the wave axis from 07N-11N. Enhanced 
+showers and thunderstorms are likely for the Lesser Antilles and 
+eastern Caribbean Friday into Saturday.
+
+A Caribbean Sea tropical wave is along 70W from 05N-17N, moving W
+at 15-20 kt. Scattered moderate convection is seen near the
+northern portion of this wave axis along the coast of the
+Dominican Republic, from 16N-19N between 69W-71W. There are also
+isolated thunderstorms seen within 90 nm of the wave axis.
+
+A Caribbean Sea tropical wave is along 79W from 05N-17N, moving W
+around 20 kt. Scattered showers and thunderstorms are seen along 
+the wave from 10N-18N. 
+
+...MONSOON TROUGH/ITCZ...
+
+The monsoon trough passes through the coastal areas of Senegal 
+near 13N17W to 08N24W to 08N39W. The ITCZ begins near 09N40W to 
+08N48W, then continues W of a tropical wave near 08N49W to the 
+coast of Suriname near 06N55W. Aside from the convection 
+mentioned above in the tropical waves section, scattered moderate 
+convection is seen along the monsoon trough from 05N-09N between 
+26W-35W. Showers are also seen within 90 nm north of the ITCZ 
+between 35W- 43W. 
+
+GULF OF MEXICO...
+
+See the Special Features section above for more details on the 
+low expected to move into the Gulf this week. 
+
+A mid-low level low and trough are confined to the northeast Gulf
+bringing enhanced convection across the area. The broad area of
+low pressure is centered over the Florida Panhandle with a 1011 mb
+low analyzed near 29N85W with a trough extending from 30N86W to
+26N86W. Scattered moderate convection is seen from 25N-30N 
+between 83W- 91W. The strongest area of convection is coming off 
+the central Louisiana coast N of 28N between 83W-92W. Weak 
+surface ridging prevails in the western Gulf. Light to gentle 
+anticyclonic winds prevail across the basin.
+
+Developing low pressure along the western Florida Panhandle may 
+intensify into a tropical cyclone as it moves westward across the 
+north central Gulf through Saturday. 
+
+CARIBBEAN SEA...
+
+See the Tropical Waves section for information on the tropical 
+waves currently traversing the Caribbean. 
+
+Upper-level low centered over the northern Caribbean extending
+into the central basin, along with a deep plume of moisture, is 
+enhancing scattered moderate convection near Cuba and Jamaica. 
+This convection is seen from 16N-21N between 78W- 82W. Scattered 
+moderate convection is also seen near the Dominican Republic from 
+17N-21N between 75W-82W. Showers are also seen moving across
+Puerto Rico. Scattered moderate convection continues across the 
+SW Caribbean off the coasts of Panama, Costa Rica, and Nicaragua, 
+enhanced by the monsoon trough, south of 13N between 77W-84W. 
+Moderate to fresh trades in the central Caribbean with moderate 
+trades in the eastern basin, and light to gentle trades across the
+rest of the area. 
+
+High pressure north of the area will support fresh to strong 
+trade winds over the south-central Caribbean for the entire 
+period. A tropical wave from Panama to Cuba will weaken as it 
+moves west of the area late today. Another tropical wave south of 
+Hispaniola will also weaken as it moves into the western Caribbean
+through late week. A third tropical wave will enter the eastern 
+Caribbean late Thursday into early Friday and move through the 
+central Caribbean Saturday and Sunday. 
+
+ATLANTIC OCEAN...
+
+The broad area of low pressure in the NE Gulf along with a 
+frontal boundary off the U.S. East coast is contributing 
+scattered thunderstorms in the western Atlantic, mostly north of 
+27N and west of 74W. Additionally, the upper- level low 
+contributing to convection over the Caribbean is also giving way 
+to scattered moderate convection across the Bahamas and the Turks 
+and Caicos, from 20N- 24N between 69W- 76W. Scattered showers and 
+thunderstorms continue across the Atlantic from 27N- 26N between 
+60W-64W likely due to enhanced moisture in the area as seen on 
+TPW. Surface ridging is seen across the rest of the basin anchored
+by a 1022 mb high near 27N57W. 
+
+Moderate to locally fresh southerly flow will persist through 
+today over the offshore waters off northeast Florida due to 
+developing low pressure over the northeast Gulf of Mexico. 
+Elsewhere, high pressure dominating the region will support gentle
+to moderate breezes elsewhere, except north of Hispaniola where 
+fresh to strong trades will pulse during the evening.
+
+For additional information please visit 
+http://www.hurricanes.gov/marine
+
+$$
+AKR

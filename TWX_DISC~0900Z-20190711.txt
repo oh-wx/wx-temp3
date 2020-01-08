@@ -1,0 +1,74 @@
+WTNT42 KNHC 110846
+TCDAT2
+
+Potential Tropical Cyclone Two Discussion Number   4
+NWS National Hurricane Center Miami FL       AL022019
+400 AM CDT Thu Jul 11 2019
+
+The convective activity associated with the broad area of low
+pressure is still spread out, and the center of circulation
+is not well defined at this time.  Both surface and scatterometer
+data indicate that the winds remain near 25 kt.  The modest
+northerly shear affecting the system should not hamper further
+development.  Overall, the environmental conditions still favor the
+formation of a tropical depression or a tropical storm later today,
+and as the system moves over warm waters, strengthening is
+indicated.  The intensity models are not as aggressive as they were
+in previous runs, but still bring the disturbance to hurricane
+status in about 48 hour or so, as the disturbance approaches the
+coast.
+
+During the past several hours, the low pressure area has barely
+moved due to weak steering currents.  However, a westward or
+260 degrees drift at about 4 kt should begin soon.  The system is
+heading toward a weakness in the ridge, and this pattern should
+induce a slow turn toward the west-northwest and then north
+during the next 3 to 5 days.  The NHC track forecast continues to
+be located on the western edge of the guidance envelope, and it has
+been adjusted slightly eastward to be more consistent with the
+multi-model ensemble TVCA.   It should be noted that track errors
+are typically larger for potential tropical cyclones than more
+mature systems.  In addition, the run-to-run consistency in the
+track models has been poor, so confidence in the details of the
+forecast is not high at the moment.
+
+
+Key Messages:
+
+1. A tropical depression is expected to form later today over the
+northern Gulf of Mexico. Conditions appear favorable for this system
+to strengthen to a hurricane that will bring storm surge, rainfall,
+and wind hazards to the central Gulf Coast.
+
+2. A dangerous storm surge is possible in portions of southern and
+southeastern Louisiana where a Storm Surge Watch is in effect.
+Additional storm surge watches may be needed later today. Residents
+in these areas should monitor the progress of this system and listen
+to any advice given by local officials.
+
+3. A Hurricane Watch is in effect for much of the Louisiana coast
+and additional tropical storm or hurricane watches and warnings
+could be required. Residents in the watch area should ensure they
+have their hurricane plan in place.
+
+4. The slow movement of this system will result in a long duration
+heavy rainfall threat along the central Gulf Coast and inland
+through the lower Mississippi Valley through the weekend and
+potentially into early next week. Flash flooding and river flooding
+will become increasingly likely, some of which may be significant,
+especially along and east of the track of the system.
+
+
+FORECAST POSITIONS AND MAX WINDS
+
+INIT  11/0900Z 27.5N  88.2W   25 KT  30 MPH...POTENTIAL TROP CYCLONE
+ 12H  11/1800Z 27.5N  88.7W   30 KT  35 MPH
+ 24H  12/0600Z 27.7N  89.5W   40 KT  45 MPH
+ 36H  12/1800Z 28.0N  90.3W   50 KT  60 MPH
+ 48H  13/0600Z 28.5N  91.1W   65 KT  75 MPH
+ 72H  14/0600Z 31.0N  91.7W   45 KT  50 MPH...INLAND
+ 96H  15/0600Z 33.5N  92.0W   30 KT  35 MPH...INLAND
+120H  16/0600Z 36.0N  90.9W   20 KT  25 MPH...POST-TROP/REMNT LOW
+
+$$
+Forecaster Avila

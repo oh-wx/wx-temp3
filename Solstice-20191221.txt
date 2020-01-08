@@ -1,0 +1,159 @@
+000
+FXUS64 KFWD 212034
+AFDFWD
+
+Area Forecast Discussion
+National Weather Service Fort Worth TX
+234 PM CST Sat Dec 21 2019
+
+
+.SHORT TERM...
+
+/Through Sunday/
+
+Synopsis: Areas of fog are expected to develop tonight, with dense
+fog likely to reduce visibility to around one-quarter mile north
+of the Metroplex. Fog should dissipate by late morning Sunday,
+with a cool but dry day to follow.
+
+A stratus deck persists over North Texas this afternoon, which has
+kept temperatures in the 40s. In Central Texas, the sun has broken
+out, allowing temperatures to climb into the 50s. Rain has come to
+an end across the region. As an astronomical note, today is the Winter
+Solstice (the exact solstice will occur at 10:19 p.m. this
+evening). On this shortest day of the year, the sun will set at
+5:26 p.m. in DFW, and at 5:30 p.m. in Waco. The sun will not rise
+again until 7:27 a.m. and 7:25 a.m. at DFW and Waco, respectively.
+This equates about 14 hours of night, after about 10 hours of
+daytime (which is way more than the 3 hours and 43 minutes of
+daytime that will occur in Fairbanks, AK today).
+
+Late tonight, temperatures will cool to near the dewpoint, with
+clear to partly cloudy skies and light winds expected. Using the
+crossover temperature method, and from looking at high-res model
+guidance, fog appears likely to develop across much of North Texas
+late tonight. Confidence is highest in fog developing near and
+north of the Dallas/Fort Worth Metropolitan Area. For this reason,
+and after coordination with the WFOs in Oklahoma, a Dense Fog
+Advisory has been issued for areas north of DFW. This advisory may
+need to be expanded southward later this evening, but for now,
+opted to issue the advisory where confidence was the highest. The
+onset of fog will likely be a little after midnight, with fog
+persisting into the mid to late morning hours Sunday.
+
+After the fog manages to dissipate, sunny skies should allow highs
+to reach into the 50s, which is near normal for mid to late
+December.
+
+Godwin
+
+&&
+
+.LONG TERM...
+
+/Monday through next weekend/
+
+The upcoming week appears largely uneventful weather-wise. A very
+pleasant Christmas Day is shaping up with what should be above
+normal temperatures during the afternoon hours. The next shot of
+rain/storms will not arrive until late in the week and into the
+last weekend of 2019. There still remains some uncertainty in the
+extended portion of the forecast, but there does appear to be a
+risk for thunderstorms.
+
+On the heels of the upper low that resulted in the dreary
+conditions this weekend, ridging will overspread from the west and
+southwest across the Lone Star State. This will equate to a
+warming trend through a majority of the week. Daytime high
+temperatures will remain largely in the upper 60s with some
+locales in the 70s...particularly on Tuesday and Christmas Day.
+These forecast highs are 10 to nearly 20 degrees above normal for
+this time of year. There could be a bit more in the way of high
+clouds on Christmas Day and Thursday when a broad trough will
+eject out of the Four Corners region and into the Central Plains.
+At this time, this feature is likely to remain too far to the
+north and west to bring about any high impact sensible weather to
+the area.
+
+Toward the end of the week appears to be the next best chance for
+showers and thunderstorms across North and Central Texas. There
+does remain a fair amount of spread among deterministic and
+ensemble guidance resulting in lower confidence in the forecast.
+The latest GFS...though a little slower than previous model
+iterations remains the swift outlier and ejects the trough very
+quickly to the east and northeast. This results in a faster FROPA
+and an earlier onset to rain chances. The Canadian and to a more
+extreme degree the ECMWF are much slower and advertise a slow
+moving cutoff low across northern Mexico. This pushes the best
+rain/storm chances closer to Saturday and Sunday with a slower
+FROPA. Historically, models that tend to advertise a more
+progressive motion associated with these digging upper
+troughs/lows have often been incorrect. With this in mind along
+with the slightly stronger consensus for a slower solution, I`ve
+leaned mostly on the Canadian and to some extent the ECMWF
+guidance.
+
+So what does this mean for our area? At this time, it`s looking
+more likely that we will see appreciable chances for rain and
+storms beginning on Friday and lasting through the last weekend of
+2019. The greatest rain chances will be Friday night into
+Saturday. It should be noted, however, that depending on the
+speed/progression of the trough, the time period for the best
+rain/storm chances will shift. What does appear apparent is that
+there will be a pretty strong mid and upper level wind field
+(500mb jet streak of around 90 knots across southwest OK). This
+coupled with several days of decent moisture advection supports
+deep moist convection--- with some organized convective modes
+possible. We`ll certainly keep tabs on any potential for strong to
+severe storms, but at this juncture it`s too early to advertise
+these hazards given the uncertainty.
+
+Bain
+
+&&
+
+
+.AVIATION... /Issued 1144 AM CST Sat Dec 21 2019/
+/18Z TAFs/
+
+Concerns -- Overnight/early morning fog potential in Metroplex.
+
+Most TAF sites continue to report MVFR or intermittent IFR cigs at
+this hour. Cigs should lift slowly and/or scatter out later this
+afternoon. Late tonight... conditions should be favorable for
+widespread BR/FG development across North Texas. Some model
+guidance suggests that LIFR or even VLIFR will be possible in the
+morning... but for now will stay on the conservative side and show
+3/4 SM BR... mainly because of some uncertainty on when the lowest
+visibility will occur. This will need to be refined in later
+issuances. As for the onset time... visibility should begin to
+drop around 07Z... with improvement likely in the hours after
+sunrise Sunday.
+
+Godwin
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    41  52  35  66  42 /   0   0   0   0   0
+Waco                37  57  32  69  36 /   0   0   0   0   0
+Paris               36  51  34  62  33 /   0   0   0   0   0
+Denton              35  51  33  67  37 /   0   0   0   0   0
+McKinney            36  51  33  65  35 /   0   0   0   0   0
+Dallas              40  53  37  67  42 /   0   0   0   0   0
+Terrell             38  54  34  64  36 /   0   0   0   0   0
+Corsicana           42  56  37  66  38 /   0   0   0   0   0
+Temple              37  57  35  68  37 /   0   0   0   0   0
+Mineral Wells       35  54  33  69  36 /   0   0   0   0   0
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+Dense Fog Advisory from 1 AM to 10 AM CST Sunday for TXZ091>095-
+100>107.
+
+&&
+
+$$
+
+24/37

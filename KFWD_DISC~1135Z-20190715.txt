@@ -1,0 +1,132 @@
+FXUS64 KFWD 151135
+AFDFWD
+
+Area Forecast Discussion
+National Weather Service Fort Worth TX
+635 AM CDT Mon Jul 15 2019
+
+
+.AVIATION...
+/12Z TAFs/
+
+No major concerns through the current TAF period. With a weak
+surface pressure pattern across the area, winds are relatively
+light this morning, and they should not increase much through the
+day (generally less than 10 kt at all sites). Metroplex sites will
+remain with light west/northwest flow before switching to more
+southerly flow this afternoon into this evening, as a lee trough
+to the west diurnally strengthens. KACT may remain relatively
+light/variable this morning, although some westerly component
+should be preferred, before switching to light southerly winds
+this afternoon.
+
+VFR expected at all sites through 12-18Z Tuesday. Isolated
+convection may develop across Central Texas this afternoon and
+evening, but should remain south of KACT. Otherwise, any overnight
+convection will remain well northeast of the Metroplex.
+
+Picca
+
+&&
+
+
+.SHORT TERM... /Issued 355 AM CDT Mon Jul 15 2019/
+/Through Tonight/
+
+After a cool (by mid-July standards) Sunday, temperatures will be
+on the increase today, although the well-advertised heat gets
+started in earnest on Tuesday. As Barry`s circulation continues to
+unwind and depart to the northeast, northerly flow through 850 mb
+will gradually turn to a more west/southwest direction this
+afternoon. Along/west of I-35, mixing through approximately
+850-800 mb and increased sunshine will boost temperatures into the
+low/mid 90s, with heat indices in the 95-100 range. Farther east,
+more persistent low-level cloud cover will reduce insolation,
+keeping highs in the mid/upper 80s (still several degrees below
+normal).
+
+Despite Barry`s continued departure/demise, confluent bands
+spiraling away from the center may yield isolated showers and
+storms from Central Texas to East Texas this afternoon and
+evening. With that said, drier air aloft and weak surface
+convergence across our area will likely keep most storms displaced
+to the south/east of our counties.
+
+Muggier conditions will persist into tonight as dew points hang in
+the lower 70s and temperatures only modestly cool after sunset.
+Most guidance suggest a lobe of higher vorticity will rotate
+around Barry`s circulation in the Ozarks and kick off warm-
+advection storms near/northeast of the Arklatex late tonight.
+While most of these cells should stay outside of our area, a
+couple feeder cells could deepen sufficiently for a brief
+shower/storm in the direction of Paris, generally after midnight.
+
+Picca
+
+&&
+
+.LONG TERM... /Issued 355 AM CDT Mon Jul 15 2019/
+/Tuesday Through the Upcoming Weekend/
+
+By daybreak Tuesday morning, the last vestiges of Barry should be
+beyond our northeast zones, beginning an extended period of rain-
+free weather for North and Central Texas. After a few days with
+below normal daytime temperatures, the heat will return in
+dramatic fashion as subsidence on the back side of the departing
+cyclone pushes temperatures into the upper 90s Tuesday afternoon.
+Thanks to Barry, dew points are currently in the 80s in portions
+of Southeast Texas; and as seasonal southerly flow re-establishes
+itself, this extraordinarily rich tropical moisture will surge
+into areas mainly east of the I-35 corridor on Tuesday. While
+these intense dew points are difficult to maintain, readings
+should still be as high as the mid 70s in East Texas at peak
+heating. As a result, Tuesday afternoon may feature the highest
+heat index values of the week.
+
+Subtropical ridging will reorient itself near our latitude, but
+mid-level heights will be rather ordinary for mid July. This
+should mean a persistence forecast with highs a few degrees above
+normal throughout the remainder of the week. A few locations may
+tap 100 degrees, but a decent southerly breeze should help take
+the edge off the heat. Although afternoon dew points will remain
+unpleasant, a little better mixing later in the week should
+gradually diminish afternoon heat index values.
+
+Guidance is conflicted with how well the ridge will re-establish
+itself, but the consensus favors the Four Corners by early next
+week. Temperatures will likely remain above normal, but this
+scenario would reduce the likelihood of extraordinary heat for the
+upcoming weekend. It would also encourage sea breeze activity
+during the Friday to Sunday time frame. However, the ridging
+should still be strong enough to stifle its inland progress.
+
+The GFS is anomalously strong with an Alberta Clipper this weekend
+and an associated frontal surge into the Southern Plains with the
+resulting northwest flow. While this would be a delight during the
+dog days, this solution is both an outlier among extended
+operational guidance and within the minority of GFS ensemble
+members (a plurality of which favor seasonal ridging). This has
+corrupted the extended blends, from which we removed the frontal
+wind shift and associated precip chances.
+
+25
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    93  78  98  79  99 /   5   5   5   0   0
+Waco                94  77  98  77  99 /  10   5   5   0   0
+Paris               85  74  92  76  93 /  20  20  10   5   0
+Denton              92  77  98  78  99 /   5   5   5   0   0
+McKinney            91  76  98  78  98 /   5  10  10   0   0
+Dallas              94  80  98  79  99 /   5   5   5   0   0
+Terrell             91  76  98  78  99 /  10  10  10   0   0
+Corsicana           92  77  94  75  95 /  10  10   5   0   0
+Temple              93  76  97  76  97 /  20   5   5   0   0
+Mineral Wells       93  75  98  75  98 /   0   0   5   0   0
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
